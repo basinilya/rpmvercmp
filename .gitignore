@@ -1,3 +1,6 @@
+*.swp
+rpmvercmp
+
 # Object files
 *.o
 *.ko
